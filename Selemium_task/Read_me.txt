@@ -1,0 +1,1 @@
+The task was performed in PyCHarm CE
